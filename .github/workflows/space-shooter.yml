@@ -16,7 +16,7 @@ jobs:
         with:
           fetch-depth: 2  # This is crucial!
 
-      - uses: cdonuts420/gh-space-shooter@main
+      - uses: donuts420/gh-space-shooter@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'game.gif'
