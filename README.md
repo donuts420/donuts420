@@ -1,7 +1,7 @@
 <h1 align="center">🧍‍♂️ Oh, Hi There.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=Exploring+AI%2FML;Researching+Graph+Neural+Networks;Playing+with+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=Exploring+AI%2FML;Researching+Graph+Neural+Networks;Playing+with+Generative+AI" alt="Typing SVG" />
 </p>
 
 ## 🧰 Things I Tinker With
