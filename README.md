@@ -69,14 +69,14 @@
   />
   <img
     height="180"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=donuts420&layout=compact&theme=transparent&hide_border=true&title_color=D8B4FE&text_color=FFFFFF"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=donuts420&layout=compact&theme=transparent&include_all_commits=true&hide_border=true&title_color=D8B4FE&text_color=FFFFFF"
     alt="Buddhajyoti Roy's Most Used Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=donuts420&background=00000000&hide_border=true&ring=D8B4FE&fire=D8B4FE&currStreakNum=D8B4FE&sideNums=D8B4FE&currStreakLabel=D8B4FE&sideLabels=D8B4FE&dates=FFFFFF&stroke=FFFFFF"
+    src="https://streak-stats.demolab.com/?user=donuts420&background=00000000&hide_border=true&include_all_commits=true&ring=D8B4FE&fire=D8B4FE&currStreakNum=D8B4FE&sideNums=D8B4FE&currStreakLabel=D8B4FE&sideLabels=D8B4FE&dates=FFFFFF&stroke=FFFFFF"
     alt="GitHub Streak"
   />
 </p>
