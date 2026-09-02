@@ -64,7 +64,7 @@
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats-fast.vercel.app/api?username=donuts420&show_icons=true&theme=transparent&hide_border=true&title_color=D8B4FE&text_color=FFFFFF&icon_color=FFFFFF"
+    src="https://github-readme-stats-fast.vercel.app/api?username=donuts420&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true&title_color=D8B4FE&text_color=FFFFFF&icon_color=FFFFFF"
     alt="Buddhajyoti Roy's GitHub Stats"
   />
   <img
